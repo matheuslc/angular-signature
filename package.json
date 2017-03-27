@@ -1,0 +1,23 @@
+{
+  "name": "angular-signature",
+  "version": "1.0.1",
+  "description": "HTML5 canvas based smooth signature drawing as angularJS directive (http://szimek.github.io/signature_pad/)",
+  "main": "src/signature.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuslc/angular-signature.git"
+  },
+  "keywords": [
+    "angular",
+    "signature"
+  ],
+  "author": "Arnold Daniels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheuslc/angular-signature/issues"
+  },
+  "homepage": "https://github.com/matheuslc/angular-signature#readme"
+}
